@@ -1,0 +1,13 @@
+/vue-exam/node_modules
+/public/hot
+/laravel-exam/public/storage
+/laravel-exam/storage/*.key
+/laravel-exam/vendor
+/laravel-exam/.env
+/laravel-exam/.env.backup
+.phpunit.result.cache
+docker-compose.override.yml
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
